@@ -1,3 +1,6 @@
 [submodule "l10n-mx-sign-invoice-server"]
 	path = l10n-mx-sign-invoice-server
 	url = git@github.com:xmarts/l10n-mx-sign-invoice-server.git
+[submodule "purchase_tripple"]
+	path = purchase_tripple
+	url = git@github.com:viernes/purchase_tripple.git
